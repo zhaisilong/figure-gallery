@@ -9,5 +9,3 @@ tags: [Figure Gallery]
 ```bash
 conda create -nplot python=3.8
 ```
-
-

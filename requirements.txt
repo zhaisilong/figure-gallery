@@ -4,3 +4,8 @@ seaborn
 matplotlib
 plotnine
 rich
+jupyter
+ipykernel
+
+# umap
+umap-learn
